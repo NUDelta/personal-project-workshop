@@ -66,16 +66,19 @@ By the end of this workshop, attendees will know how to:
 
 <img align="left" width="30%" src="images/melissa_headshot.jpg" style="margin-right: 16px; margin-bottom: 8px;" >
 
-[Melissa](https://melissaychen.com/) is a fourth year PhD student in Computer Science at Northwestern University. Her research explores how to design sociotechnical learning environments to support student learning and confidence in computing education. Prior to her PhD, she graduated from the University of Illinois at Urbana-Champaign with a BS in computer science and a minor in math, where she was on course staff for Computer Architecture for five semesters, taught coding workshops through Women in Computer Science and Girls Who Code, and completed software engineering internships at Facebook, Lyft, and the National Center for Supercomputing Applications. 
+[Melissa Chen](https://melissaychen.com/) is a fourth year PhD candidate in Computer Science at Northwestern University. Her research explores how to design sociotechnical learning environments to support student learning and confidence in computing education. Prior to her PhD, she graduated from the University of Illinois at Urbana-Champaign with a BS in computer science and a minor in math, where she was on course staff for the project-based Freshman Honors Seminar for two semesters and Computer Architecture for five semesters, taught coding workshops through Women in Computer Science and Girls Who Code, and completed software engineering internships at Facebook, Lyft, and the National Center for Supercomputing Applications. 
 
 ### Mora Labisi _(she/her)_
-Mora Labisi is a second-year Computer Science \+ Learning Sciences PhD Student at Northwestern University and a NSF CSGrad4US Fellow. Her work focuses on understanding how to support undergraduate Computer Science students as they navigate the transition from academia to industry. Prior to embarking on her Ph.D. journey, Mora worked as a Software Engineer at Starbucks for a little over four years.
+
+<img align="left" width="30%" src="images/mora_headshot.jpg" style="margin-right: 16px; margin-bottom: 8px;" >
+
+[Mora Labisi](https://themoralcode.org/) is a second-year Computer Science + Learning Sciences PhD Student at Northwestern University and a NSF CSGrad4US Fellow. Her work focuses on understanding how to support undergraduate Computer Science students as they navigate the transition from academia to industry. Prior to embarking on her Ph.D. journey, Mora worked as a Software Engineer at Starbucks for a little over four years.
 
 ### Eleanor O’Rourke _(she/her)_
 
 <img align="left" width="30%" src="images/ORourke_headshot.jpg" style="margin-right: 16px; margin-bottom: 8px;" >
 
-Eleanor "Nell" O'Rourke is an Associate Professor in Computer Science and the Learning Sciences at Northwestern University, where she co-directs the interdisciplinary Delta Lab. Her research explores the design of novel computational systems to support motivation and learning in STEM domains. Recent projects include studying student beliefs about programming ability in introductory computer science courses, designing game mechanics that encourage students to practice effective problem-solving skills, and developing web inspection tools that allow novice developers to learn directly from authentic professional websites. Her interventions have been used by over 100,000 students online, adopted by companies, and integrated into classrooms. Her work has been recognized through an NSF CAREER Award, a Google Systems Research Award, and best paper awards and nominations at SIGCSE, UIST, and CHI.
+[Eleanor "Nell" O'Rourke](http://eleanorourke.com/) is an Associate Professor in Computer Science and the Learning Sciences at Northwestern University, where she co-directs the interdisciplinary Delta Lab. Her research explores the design of novel computational systems to support motivation and learning in STEM domains. Recent projects include studying student beliefs about programming ability in introductory computer science courses, designing game mechanics that encourage students to practice effective problem-solving skills, and developing web inspection tools that allow novice developers to learn directly from authentic professional websites. Her interventions have been used by over 100,000 students online, adopted by companies, and integrated into classrooms. Her work has been recognized through an NSF CAREER Award, a Google Systems Research Award, and best paper awards and nominations at SIGCSE, UIST, and CHI.
 
 ## Contact
 {: #contact}
