@@ -11,7 +11,7 @@ May 30-31, 2026 @ 12-5 PM
 
 Mudd Library, Northwestern University 
 
-**Applications accepted on a rolling basis, due May 26!**
+**Applications accepted on a rolling basis, due May 26! [Application link](https://northwestern.az1.qualtrics.com/jfe/form/SV_0NyQaLtByJe0HYO)**
 
 -----
 
@@ -24,7 +24,7 @@ Mudd Library, Northwestern University
 
 If you’re interested in participating:
 
-1. Apply for the research study workshop by May 26, 2026 at 11:59 PM here (applications are accepted on a rolling basis, so apply early!). The form will ask you to sign a consent form, fill out a survey, and share why you are interested in the workshop.  
+1. Apply for the research study workshop by May 26, 2026 at 11:59 PM [here](https://northwestern.az1.qualtrics.com/jfe/form/SV_0NyQaLtByJe0HYO) (applications are accepted on a rolling basis, so apply early!). The form will ask you to sign a consent form, fill out a survey, and share why you are interested in the workshop.  
 2. Workshop acceptances will be sent out on a rolling basis. If you are accepted, you will be sent the workshop location details and a consent form for the workshop itself.
 
 The application and workshop are a part of a research study. To be eligible for this research study, you must be a Northwestern University student aged 18 or older. This study is approved by the Northwestern IRB (_STU00226229: Designing programming problem solving support for students_). The PI for this study is Professor Eleanor O’Rourke. Your professors will not know if you choose to participate in this study or not and your participation will not affect your standing at Northwestern University.
