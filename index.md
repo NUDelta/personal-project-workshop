@@ -11,7 +11,7 @@ May 30-31, 2026 @ 12-5 PM
 
 Mudd Library, Northwestern University 
 
-**Applications accepted on a rolling basis, due May 26! [Application link](https://northwestern.az1.qualtrics.com/jfe/form/SV_0NyQaLtByJe0HYO)**
+**Applications accepted on a rolling basis, due May 28 at 9 AM! [Application link](https://northwestern.az1.qualtrics.com/jfe/form/SV_0NyQaLtByJe0HYO)**
 
 -----
 
