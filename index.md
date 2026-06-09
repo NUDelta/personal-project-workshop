@@ -7,6 +7,8 @@ layout: default
 
 # Personal Project Workshop
 
+_Not sure how to get started on a personal project? Join our workshop to get support from facilitators and peers!_
+
 May 30-31, 2026 @ 12-5 PM
 
 Mudd Library, Northwestern University 
