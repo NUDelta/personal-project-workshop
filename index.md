@@ -11,7 +11,9 @@ May 30-31, 2026 @ 12-5 PM
 
 Mudd Library, Northwestern University 
 
-**Applications accepted on a rolling basis, due May 26! [Application link](https://northwestern.az1.qualtrics.com/jfe/form/SV_0NyQaLtByJe0HYO)**
+**Applications accepted on a rolling basis, due May 26!**
+
+{% include apply_button.html %}
 
 -----
 
@@ -22,14 +24,7 @@ Mudd Library, Northwestern University
 
 **This workshop is designed for anyone who has minimal or introductory experience in the Python programming language** and is intended to be useful for anyone looking to build up a software engineering portfolio, build up their programming skills, create something interesting and cool, and more!
 
-If you’re interested in participating:
-
-1. Apply for the research study workshop by May 26, 2026 at 11:59 PM [here](https://northwestern.az1.qualtrics.com/jfe/form/SV_0NyQaLtByJe0HYO) (applications are accepted on a rolling basis, so apply early!). The form will ask you to sign a consent form, fill out a survey, and share why you are interested in the workshop.  
-2. Workshop acceptances will be sent out on a rolling basis. If you are accepted, you will be sent the workshop location details and a consent form for the workshop itself.
-
-The application and workshop are a part of a research study. To be eligible for this research study, you must be a Northwestern University student aged 18 or older. This study is approved by the Northwestern IRB (_STU00226229: Designing programming problem solving support for students_). The PI for this study is Professor Eleanor O’Rourke. Your professors will not know if you choose to participate in this study or not and your participation will not affect your standing at Northwestern University.
-
-Those who fill out the application in good faith will be compensated with a $10 gift card. Lunch and snacks will be provided on each day of the workshop, and those who attend both days of the workshop will receive a $70 gift card. 
+Lunch and snacks will be provided during the workshop. Attendees will receive a $70 gift card for attending both days. 
 
 ## Learning Objectives
 {: #learning-objectives}
@@ -43,6 +38,16 @@ By the end of this workshop, attendees will know how to:
 * Implement the models, views, and controllers in the system  
 * Use strategies to debug effectively
 
+## Interested?
+
+{% include apply_button.html %}
+
+Apply by **May 26, 2026** at 11:59 PM! Acceptances will be sent out on a rolling basis. The workshop location details will be sent to you upon acceptance. 
+
+Those who fill out the application in good faith will be compensated with a $10 gift card. 
+
+This workshop is a part of a research study approved by Northwestern's IRB: _STU00226229: Designing programming problem solving support for students_ (PI: Dr. Eleanor O'Rourke).
+
 ## Schedule
 {: #schedule}
 
@@ -50,14 +55,13 @@ By the end of this workshop, attendees will know how to:
 |------|----------|
 | **Day 1** | |
 | 12:00 - 1:30 PM | lunch + getting started on your project |
-| 1:30 - 4:30 PM | work time w/ support from facilitators and peers |
-| 4:30 - 5:00 PM | reflections + next steps |
+| 1:30 - 4:00 PM | work time w/ support from facilitators and peers |
+| 4:00 - 5:00 PM | reflections + next steps |
 | **Day 2** | |
 | 12:00 - 3:00 PM | lunch + work time w/ support from facilitators and peers |
 | 3:00 - 3:30 PM | project gallery walk + feedback |
-| 3:30 - 4:00 PM | reflections |
-| 4:00 - 4:30 PM | talking about your project in your portfolio, to recruiters, etc. |
-| 4:30 - 5:00 PM | wrap-up + next steps |
+| 3:30 - 4:30 PM | reflections |
+| 4:30 - 5:00 PM | talking about your project in your portfolio, to recruiters, etc.; wrap-up + next steps |
 
 ## Organizers
 {: #organizers}
