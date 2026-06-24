@@ -9,11 +9,11 @@ layout: default
 
 _Not sure how to get started on a personal project? Join our workshop to get support from facilitators and peers!_
 
-May 30-31, 2026 @ 12-5 PM
-
 Mudd Library, Northwestern University 
 
 **Applications accepted on a rolling basis, due July 3!**
+
+Workshop time will be determined based on interest and availability.
 
 {% include apply_button.html %}
 
@@ -53,7 +53,7 @@ This workshop is a part of a research study approved by Northwestern's IRB: _STU
 ## Schedule
 {: #schedule}
 
-Exact schedule is subject to change.
+Exact schedule is subject to change. The exact dates of the workshop will be determined based on interest and availability. 
 
 | Time | Activity |
 |------|----------|
