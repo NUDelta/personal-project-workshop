@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: apply
 ---
 
 1. Apply for the research study workshop by May 26, 2026 at 11:59 PM [here](https://northwestern.az1.qualtrics.com/jfe/form/SV_0NyQaLtByJe0HYO) (applications are accepted on a rolling basis, so apply early!). The form will ask you to sign a consent form, fill out a survey, and share why you are interested in the workshop.  
