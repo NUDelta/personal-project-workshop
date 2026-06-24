@@ -13,13 +13,13 @@ May 30-31, 2026 @ 12-5 PM
 
 Mudd Library, Northwestern University 
 
-**Applications accepted on a rolling basis, due May 26!**
+**Applications accepted on a rolling basis, due July 3!**
 
 {% include apply_button.html %}
 
 -----
 
-**Are you interested in working on a personal programming project, but unsure about how to get started?** Consider signing up for our research study: a hands-on workshop on May 30 and 31 from 12-5 PM to 
+**Are you interested in working on a personal programming project, but unsure about how to get started?** Consider signing up for our research study: a two day, hands-on workshop where you will
 
 1. Learn skills for working on a larger programming project from start to finish and  
 2. Get support and feedback from your peers and graduate students as you work!
@@ -44,7 +44,7 @@ By the end of this workshop, attendees will know how to:
 
 {% include apply_button.html %}
 
-Apply by **May 26, 2026** at 11:59 PM! Acceptances will be sent out on a rolling basis. The workshop location details will be sent to you upon acceptance. 
+Apply by **July 3, 2026** at 11:59 PM! Acceptances will be sent out on a rolling basis. The workshop location details will be sent to you upon acceptance. 
 
 Those who fill out the application in good faith will be compensated with a $10 gift card. 
 
@@ -53,12 +53,14 @@ This workshop is a part of a research study approved by Northwestern's IRB: _STU
 ## Schedule
 {: #schedule}
 
+Exact schedule is subject to change.
+
 | Time | Activity |
 |------|----------|
 | **Day 1** | |
-| 12:00 - 1:30 PM | lunch + getting started on your project |
-| 1:30 - 4:00 PM | work time w/ support from facilitators and peers |
-| 4:00 - 5:00 PM | reflections + next steps |
+| 12:00 - 1:45 PM | lunch + getting started on your project |
+| 1:45 - 3:45 PM | work time w/ support from facilitators and peers |
+| 3:45 - 5:00 PM | reflections + next steps |
 | **Day 2** | |
 | 12:00 - 3:00 PM | lunch + work time w/ support from facilitators and peers |
 | 3:00 - 3:30 PM | project gallery walk + feedback |
